@@ -709,12 +709,13 @@ body {
   vertical-align: bottom;
   min-height: 22px;
   font-weight: bold;
+  margin-left: 100px; /*temporarily adding this*/
 }
-@media (min-width:992px) {
+/* @media (min-width:992px) {
   .dl-horizontal dd {
     margin-left: 100px;
   }
-}
+} */
 /* ==========================================================
 ! >> 02. Buttons
 ========================================================== */
